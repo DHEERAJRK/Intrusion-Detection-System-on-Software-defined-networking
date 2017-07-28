@@ -1,5 +1,5 @@
 # Intrusion-Detection-System-on-Software-defined-networking
-Implementation of Intrusion Detection System on Zodiac-FX Software defined networking switch,it checks for the packet count within the time span and if it exceeds the threshold it is intrusion. 
+Implementation of Intrusion Detection System on Zodiac-FX Software defined networking switch,it checks for the packet count within the time span and if it exceeds the threshold it is detected as intrusion. 
 The project is basically built using Ryu controller.
 
 How it works:
